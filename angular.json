@@ -127,5 +127,8 @@
       }
     }
   },
-  "defaultProject": "HBDDD"
+  "defaultProject": "HBDDD",
+  "cli": {
+    "analytics": "f7a2d84b-723e-4983-bb89-b1df651afb34"
+  }
 }
